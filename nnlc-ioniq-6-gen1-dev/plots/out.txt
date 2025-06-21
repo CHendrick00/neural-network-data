@@ -1,0 +1,13 @@
+2737437 points filtered down to 1444464
+    ANGLE_COEF = 0.38440539
+    ANGLE_COEF2 = 0.37030301
+    ANGLE_OFFSET = -0.02205329
+    SPEED_OFFSET = 0.19760449
+    SIGMOID_COEF_RIGHT = 1.00000000
+    SIGMOID_COEF_LEFT = 0.99999997
+    SPEED_COEF = 1.99999994
+    SPEED_COEF2 = 0.50000000
+    SPEED_OFFSET2 = 15.00000000
+mean absolute error: old 0.2214, new 0.137
+standard deviation: old 0.3705, new 0.2683
+fit computed using 1551 points
